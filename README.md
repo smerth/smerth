@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @smerth
+- 👋 Hi, I’m Stephen or @smerth on GitHub
 - 👀 I’m interested in developing cloud based applications
 - 🌱 I’m currently learning AWS cloud formation
-- 💞️ I’m looking to collaborate on one click deployment to AWS for GatsbyJS
+- 💞️ I’m looking to collaborate on a cloud formation deployment to AWS for GatsbyJS
 - 📫 Get in touch through GitHub.
 
 <!---
